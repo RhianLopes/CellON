@@ -1,0 +1,205 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size:  18px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#area{
+	width: 1200px;
+	margin: 0 auto;
+}
+#cabecalho{
+	background: #4988CB;
+	margin: 0 auto 0 auto;
+	height: 150px;
+}
+
+.titulo{
+	padding-top: -50px;
+	float: left;
+	font-size: 80px;
+}
+
+.on{
+	color: white;
+}
+.central{
+	color: white; 
+	padding-top: 90px;
+	padding-right: 30px;
+	float: right;
+	font-size: 30px;
+}
+
+
+	
+
+/*Links não visitados*/
+.ab:link{
+	color: #FFF;
+	text-decoration: none;
+	padding: 7px 10px;
+}
+/*Links visitados*/
+.ab:visited{
+	color: #FFF;
+	text-decoration: none;
+	padding: 7px 10px;
+}
+/*Links Hover*/
+.ab:hover{
+	color: #fff;
+	background: #3E51A7;
+	text-decoration: none;
+	padding: 7px 10px;
+}
+/*Links Active*/
+.ab:active{
+	color: #FFF;
+	text-decoration: none;
+	padding: 7px 10px;
+}
+
+#navegacao{
+	width: 1250px;
+	margin: 10px auto 10px auto;
+}
+
+#postagem{
+	background: #E7E6E6;
+	margin: 30px;
+	box-shadow: 8px 8px 10px #434242;
+
+}
+
+.tituloo{
+	font-size: 70px;
+	margin: 20px;
+	text-shadow: 3px 2px #698CCC;
+
+}
+
+.imagem-post{
+	position: left;
+	margin: 5px 20px 10px 10px;	
+	box-shadow: 8px 8px 10px #434242;
+	
+}
+
+.texto{	
+	margin: -360px 500px  ;
+	width: 630px;
+	height: 400px;
+	padding: 10px
+}
+.postador{
+	padding-left: 500px;
+    margin-top: 310px;
+    height: 50px
+
+
+}
+
+.azul{
+	color: blue;
+}
+
+.logo{
+	
+	padding: 10px;
+	padding-left: 230px;
+	background: #4988CB;
+	font-size: 50px;
+	color: black;
+	height: 50px;
+}
+
+.especial{
+	
+	padding: 10px;
+	padding-left: -60px;
+	background: #4988CB;
+	font-size: 50px;
+	color: black;
+	height: 50px;
+	
+}
+
+
+.sombra{
+	text-shadow: 4px 4px 2px black;
+	color: white;
+}
+
+#rodape{
+	background: #4988CB;
+	height: 200px;
+	position: bottom;
+}
+
+.rodape_cadastro{
+	background: #4988CB;
+	height: 200px;
+	margin-top: 700px;
+}
+
+.conect{
+	font-size: 50px;
+}
+
+.tam{
+	font-size: 16px;
+}
+
+.caixa{
+	background: #E7E6E6;
+	height: 300px;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+.imagem{
+	margin-top: 25px;
+	margin-left: 10px;
+}
+
+.rodapee{
+	background: #4988CB;
+	height: 200px;
+	margin-top: 1250px;
+}
+
+.titulo_produto{
+	padding: 10px;
+	height: 250px;
+	width: 230px;
+	font-size: 16px;
+	color: black;
+}
+
+.titulo_especial{
+	color: black;
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+.titulop{
+	margin-top: -5px;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding: 15px;
+	color: black;
+	font-size: 50px;
+}
+
+.rodape_sobre{
+	background: #4988CB;
+	height: 200px;
+	margin-top: 800px;
+}
+
